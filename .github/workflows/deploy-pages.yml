@@ -26,6 +26,10 @@ jobs:
           node-version: 20
       - name: Check portfolio JavaScript syntax
         run: node --check script.js
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
