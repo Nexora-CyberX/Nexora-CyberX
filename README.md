@@ -22,7 +22,8 @@ A multi-page automotive website concept and front-end demonstration.
 
 **Project status:** Demo only. Booking, payment, and customer workflows are not connected to live services.
 
-[View E-RIDES on GitHub](https://github.com/Nexora-CyberX/ERIDES)
+- [View E-RIDES on GitHub](https://github.com/Nexora-CyberX/ERIDES)
+- [Read the E-RIDES project case study](https://github.com/Nexora-CyberX/ERIDES/blob/main/docs/PROJECT-CASE-STUDY.md)
 
 ## Tools and technologies
 
