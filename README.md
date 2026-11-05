@@ -6,11 +6,18 @@ I enjoy building practical web experiences, learning how software systems work e
 
 ## Portfolio website
 
-My personal portfolio introduces my current focus areas and documents selected work.
+A responsive, static portfolio website is included in this repository.
 
-- **Portfolio:** [Open the source repository](https://github.com/Nexora-CyberX/Nexora-CyberX)
+- **Website source:** `index.html`, `styles.css`, and `script.js`
 - **Featured project:** [E-RIDES Automotives](https://github.com/Nexora-CyberX/ERIDES)
 - **Project case study:** [Read the E-RIDES case study](https://github.com/Nexora-CyberX/ERIDES/blob/main/docs/PROJECT-CASE-STUDY.md)
+
+### Publish with GitHub Pages
+
+1. Open this repository's **Settings → Pages**.
+2. Under **Build and deployment**, choose **GitHub Actions** as the source.
+3. Pushes to `main` will run the deployment workflow.
+4. The site will be published at [https://nexora-cyberx.github.io/Nexora-CyberX/](https://nexora-cyberx.github.io/Nexora-CyberX/) after the first successful deployment.
 
 ## Areas of focus
 
