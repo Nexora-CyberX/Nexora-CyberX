@@ -4,26 +4,19 @@
 
 I enjoy building practical web experiences, learning how software systems work end to end, and exploring how AI and security can make applications more useful and resilient.
 
-I'm developing my portfolio around three areas:
+## Portfolio website
+
+My personal portfolio introduces my current focus areas and documents selected work.
+
+- **Portfolio:** [Open the source repository](https://github.com/Nexora-CyberX/Nexora-CyberX)
+- **Featured project:** [E-RIDES Automotives](https://github.com/Nexora-CyberX/ERIDES)
+- **Project case study:** [Read the E-RIDES case study](https://github.com/Nexora-CyberX/ERIDES/blob/main/docs/PROJECT-CASE-STUDY.md)
+
+## Areas of focus
 
 - **Web development** — responsive interfaces, browser-side interactions, and practical application features.
 - **AI & prompt engineering** — exploring useful AI workflows and ways to work effectively with language models.
 - **Cybersecurity** — learning secure development practices, application security fundamentals, and responsible testing.
-
-## Featured work
-
-### E-RIDES Automotives
-A multi-page automotive website concept and front-end demonstration.
-
-- Vehicle inventory browsing and filter interfaces
-- Rental options and price-calculation UI
-- Services, contact, and responsive page layouts
-- HTML, CSS, and JavaScript
-
-**Project status:** Demo only. Booking, payment, and customer workflows are not connected to live services.
-
-- [View E-RIDES on GitHub](https://github.com/Nexora-CyberX/ERIDES)
-- [Read the E-RIDES project case study](https://github.com/Nexora-CyberX/ERIDES/blob/main/docs/PROJECT-CASE-STUDY.md)
 
 ## Tools and technologies
 
@@ -33,7 +26,7 @@ HTML · CSS · JavaScript · Python
 **Areas I'm exploring:**  
 React · TypeScript · APIs · AI-assisted development · application security
 
-> I keep this list focused on tools I am actively using or exploring rather than presenting every technology as professional experience.
+> This profile distinguishes technologies currently in use from areas still being explored. It does not claim professional certification or experience.
 
 ## What I'm working toward
 
